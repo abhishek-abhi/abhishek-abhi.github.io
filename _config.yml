@@ -19,7 +19,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Welcome to the official page of Abhishek Kumar Mandal. Come along with me 
   and I will take you to one different world, where you would assemble the grains
   of moments in an unique way.
-baseurl: "https://abhishek-abhi.github.io/" # the subpath of your site, e.g. /blog
+baseurl: "abhishek-abhi.github.io" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: abhishek_fly
 github_username:  abhishek-abhi
